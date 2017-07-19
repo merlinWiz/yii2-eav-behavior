@@ -43,7 +43,7 @@ or add
 to the require section of your `composer.json` file.
 
 
-```php
+```
 
 $ php yii migrate/up --migrationPath=@vendor/reshik84/yii2-eav-behavior/migrations
 

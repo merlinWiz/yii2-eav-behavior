@@ -1,6 +1,6 @@
 <?php
 
-namespace resh\eav\models\models;
+namespace resh\eav\models;
 
 use Yii;
 

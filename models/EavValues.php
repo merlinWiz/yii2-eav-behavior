@@ -21,7 +21,7 @@ class EavValues extends \yii\db\ActiveRecord
      */
     public static function tableName()
     {
-        return 'eav_values';
+        return '{{%eav_values}}';
     }
 
     /**
